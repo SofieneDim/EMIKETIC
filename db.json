@@ -1,0 +1,458 @@
+{
+  "all": [
+    {
+      "id": 1,
+      "itemsNumber": "22",
+      "content": [
+        {
+          "id": 1,
+          "Title": "Series title",
+          "Released": "01-01-2017",
+          "Writer": "Frank Darabont, Angela Kang"
+        },
+        {
+          "id": 1,
+          "Title": "Movies title",
+          "Released": "01-01-2017",
+          "Writer": "Frank Darabont, Angela Kang"
+        },
+        {
+          "id": 1,
+          "Title": "Series title",
+          "Released": "01-01-2017",
+          "Writer": "Frank Darabont, Angela Kang"
+        },
+        {
+          "id": 1,
+          "Title": "Movies title",
+          "Released": "01-01-2017",
+          "Writer": "Frank Darabont, Angela Kang"
+        },
+        {
+          "id": 1,
+          "Title": "Series title",
+          "Released": "01-01-2017",
+          "Writer": "Frank Darabont, Angela Kang"
+        },
+        {
+          "id": 1,
+          "Title": "Movies title",
+          "Released": "01-01-2017",
+          "Writer": "Frank Darabont, Angela Kang"
+        },
+        {
+          "id": 1,
+          "Title": "Movies title",
+          "Released": "01-01-2017",
+          "Writer": "Frank Darabont, Angela Kang"
+        },
+        {
+          "id": 1,
+          "Title": "Movies title",
+          "Released": "01-01-2017",
+          "Writer": "Frank Darabont, Angela Kang"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "itemsNumber": "22",
+      "content": [
+        {
+          "id": 1,
+          "Title": "Series title",
+          "Released": "01-01-2017",
+          "Writer": "Frank Darabont, Angela Kang"
+        },
+        {
+          "id": 1,
+          "Title": "Movies title",
+          "Released": "01-01-2017",
+          "Writer": "Frank Darabont, Angela Kang"
+        },
+        {
+          "id": 1,
+          "Title": "Series title",
+          "Released": "01-01-2017",
+          "Writer": "Frank Darabont, Angela Kang"
+        },
+        {
+          "id": 1,
+          "Title": "Movies title",
+          "Released": "01-01-2017",
+          "Writer": "Frank Darabont, Angela Kang"
+        },
+        {
+          "id": 1,
+          "Title": "Series title",
+          "Released": "01-01-2017",
+          "Writer": "Frank Darabont, Angela Kang"
+        },
+        {
+          "id": 1,
+          "Title": "Movies title",
+          "Released": "01-01-2017",
+          "Writer": "Frank Darabont, Angela Kang"
+        },
+        {
+          "id": 1,
+          "Title": "Series title",
+          "Released": "01-01-2017",
+          "Writer": "Frank Darabont, Angela Kang"
+        },
+        {
+          "id": 1,
+          "Title": "Movies title",
+          "Released": "01-01-2017",
+          "Writer": "Frank Darabont, Angela Kang"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "itemsNumber": "22",
+      "content": [
+        {
+          "id": 1,
+          "Title": "Series title",
+          "Released": "01-01-2017",
+          "Writer": "Frank Darabont, Angela Kang"
+        },
+        {
+          "id": 1,
+          "Title": "Movies title",
+          "Released": "01-01-2017",
+          "Writer": "Frank Darabont, Angela Kang"
+        },
+        {
+          "id": 1,
+          "Title": "Series title",
+          "Released": "01-01-2017",
+          "Writer": "Frank Darabont, Angela Kang"
+        },
+        {
+          "id": 1,
+          "Title": "Movies title",
+          "Released": "01-01-2017",
+          "Writer": "Frank Darabont, Angela Kang"
+        },
+        {
+          "id": 1,
+          "Title": "Movies title",
+          "Released": "01-01-2017",
+          "Writer": "Frank Darabont, Angela Kang"
+        },
+        {
+          "id": 1,
+          "Title": "Movies title",
+          "Released": "01-01-2017",
+          "Writer": "Frank Darabont, Angela Kang"
+        }
+      ]
+    }
+  ],
+  "movies": [
+    {
+      "id": 1,
+      "itemsNumber": "22",
+      "content": [
+        {
+          "id": 1,
+          "Title": "Movies title Movies title",
+          "Released": "01-01-2017",
+          "Writer": "Frank Darabont, Angela Kang"
+        },
+        {
+          "id": 1,
+          "Title": "Movies title",
+          "Released": "01-01-2017",
+          "Writer": "Frank Darabont, Angela Kang"
+        },
+        {
+          "id": 1,
+          "Title": "Movies title",
+          "Released": "01-01-2017",
+          "Writer": "Frank Darabont, Angela Kang"
+        },
+        {
+          "id": 1,
+          "Title": "Movies title",
+          "Released": "01-01-2017",
+          "Writer": "Frank Darabont, Angela Kang"
+        },
+        {
+          "id": 1,
+          "Title": "Movies title",
+          "Released": "01-01-2017",
+          "Writer": "Frank Darabont, Angela Kang"
+        },
+        {
+          "id": 1,
+          "Title": "Movies title",
+          "Released": "01-01-2017",
+          "Writer": "Frank Darabont, Angela Kang"
+        },
+        {
+          "id": 1,
+          "Title": "Movies title",
+          "Released": "01-01-2017",
+          "Writer": "Frank Darabont, Angela Kang"
+        },
+        {
+          "id": 1,
+          "Title": "Movies title",
+          "Released": "01-01-2017",
+          "Writer": "Frank Darabont, Angela Kang"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "itemsNumber": "22",
+      "content": [
+        {
+          "id": 1,
+          "Title": "Movies title",
+          "Released": "01-01-2017",
+          "Writer": "Frank Darabont, Angela Kang"
+        },
+        {
+          "id": 1,
+          "Title": "Movies title",
+          "Released": "01-01-2017",
+          "Writer": "Frank Darabont, Angela Kang"
+        },
+        {
+          "id": 1,
+          "Title": "Movies title",
+          "Released": "01-01-2017",
+          "Writer": "Frank Darabont, Angela Kang"
+        },
+        {
+          "id": 1,
+          "Title": "Movies title",
+          "Released": "01-01-2017",
+          "Writer": "Frank Darabont, Angela Kang"
+        },
+        {
+          "id": 1,
+          "Title": "Movies title",
+          "Released": "01-01-2017",
+          "Writer": "Frank Darabont, Angela Kang"
+        },
+        {
+          "id": 1,
+          "Title": "Movies title",
+          "Released": "01-01-2017",
+          "Writer": "Frank Darabont, Angela Kang"
+        },
+        {
+          "id": 1,
+          "Title": "Movies title",
+          "Released": "01-01-2017",
+          "Writer": "Frank Darabont, Angela Kang"
+        },
+        {
+          "id": 1,
+          "Title": "Movies title",
+          "Released": "01-01-2017",
+          "Writer": "Frank Darabont, Angela Kang"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "itemsNumber": "22",
+      "content": [
+        {
+          "id": 1,
+          "Title": "Movies title",
+          "Released": "01-01-2017",
+          "Writer": "Frank Darabont, Angela Kang"
+        },
+        {
+          "id": 1,
+          "Title": "Movies title",
+          "Released": "01-01-2017",
+          "Writer": "Frank Darabont, Angela Kang"
+        },
+        {
+          "id": 1,
+          "Title": "Movies title",
+          "Released": "01-01-2017",
+          "Writer": "Frank Darabont, Angela Kang"
+        },
+        {
+          "id": 1,
+          "Title": "Movies title",
+          "Released": "01-01-2017",
+          "Writer": "Frank Darabont, Angela Kang"
+        },
+        {
+          "id": 1,
+          "Title": "Movies title",
+          "Released": "01-01-2017",
+          "Writer": "Frank Darabont, Angela Kang"
+        },
+        {
+          "id": 1,
+          "Title": "Movies title",
+          "Released": "01-01-2017",
+          "Writer": "Frank Darabont, Angela Kang"
+        }
+      ]
+    }
+  ],
+  "series": [
+    {
+      "id": 1,
+      "itemsNumber": "22",
+      "content": [
+        {
+          "id": 1,
+          "Title": "Series title",
+          "Released": "01-01-2017",
+          "Writer": "Frank Darabont, Angela Kang"
+        },
+        {
+          "id": 1,
+          "Title": "Series title",
+          "Released": "01-01-2017",
+          "Writer": "Frank Darabont, Angela Kang"
+        },
+        {
+          "id": 1,
+          "Title": "Series title",
+          "Released": "01-01-2017",
+          "Writer": "Frank Darabont, Angela Kang"
+        },
+        {
+          "id": 1,
+          "Title": "Series title",
+          "Released": "01-01-2017",
+          "Writer": "Frank Darabont, Angela Kang"
+        },
+        {
+          "id": 1,
+          "Title": "Series title",
+          "Released": "01-01-2017",
+          "Writer": "Frank Darabont, Angela Kang"
+        },
+        {
+          "id": 1,
+          "Title": "Series title",
+          "Released": "01-01-2017",
+          "Writer": "Frank Darabont, Angela Kang"
+        },
+        {
+          "id": 1,
+          "Title": "Series title",
+          "Released": "01-01-2017",
+          "Writer": "Frank Darabont, Angela Kang"
+        },
+        {
+          "id": 1,
+          "Title": "Series title",
+          "Released": "01-01-2017",
+          "Writer": "Frank Darabont, Angela Kang"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "itemsNumber": "22",
+      "content": [
+        {
+          "id": 1,
+          "Title": "Series title",
+          "Released": "01-01-2017",
+          "Writer": "Frank Darabont, Angela Kang"
+        },
+        {
+          "id": 1,
+          "Title": "Series title",
+          "Released": "01-01-2017",
+          "Writer": "Frank Darabont, Angela Kang"
+        },
+        {
+          "id": 1,
+          "Title": "Series title",
+          "Released": "01-01-2017",
+          "Writer": "Frank Darabont, Angela Kang"
+        },
+        {
+          "id": 1,
+          "Title": "Series title",
+          "Released": "01-01-2017",
+          "Writer": "Frank Darabont, Angela Kang"
+        },
+        {
+          "id": 1,
+          "Title": "Series title",
+          "Released": "01-01-2017",
+          "Writer": "Frank Darabont, Angela Kang"
+        },
+        {
+          "id": 1,
+          "Title": "Series title",
+          "Released": "01-01-2017",
+          "Writer": "Frank Darabont, Angela Kang"
+        },
+        {
+          "id": 1,
+          "Title": "Series title",
+          "Released": "01-01-2017",
+          "Writer": "Frank Darabont, Angela Kang"
+        },
+        {
+          "id": 1,
+          "Title": "Series title",
+          "Released": "01-01-2017",
+          "Writer": "Frank Darabont, Angela Kang"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "itemsNumber": "22",
+      "content": [
+        {
+          "id": 1,
+          "Title": "Series title",
+          "Released": "01-01-2017",
+          "Writer": "Frank Darabont, Angela Kang"
+        },
+        {
+          "id": 1,
+          "Title": "Series title",
+          "Released": "01-01-2017",
+          "Writer": "Frank Darabont, Angela Kang"
+        },
+        {
+          "id": 1,
+          "Title": "Series title",
+          "Released": "01-01-2017",
+          "Writer": "Frank Darabont, Angela Kang"
+        },
+        {
+          "id": 1,
+          "Title": "Series title",
+          "Released": "01-01-2017",
+          "Writer": "Frank Darabont, Angela Kang"
+        },
+        {
+          "id": 1,
+          "Title": "Series title",
+          "Released": "01-01-2017",
+          "Writer": "Frank Darabont, Angela Kang"
+        },
+        {
+          "id": 1,
+          "Title": "Series title",
+          "Released": "01-01-2017",
+          "Writer": "Frank Darabont, Angela Kang"
+        }
+      ]
+    }
+  ]
+}

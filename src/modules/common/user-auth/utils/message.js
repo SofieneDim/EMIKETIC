@@ -1,0 +1,5 @@
+export const fullNameErrorMessage = "Full name must be at least 6 characters"
+export const emailErrorMessage = "E-mail you have entered is not valid"
+export const passwordErrorMessage = "Password must be at least 4 characters"
+export const passwordMatchErrorMessage = "Password and confirm password does not match"
+export const signupSuccessfulMessage = "User successfully registered"

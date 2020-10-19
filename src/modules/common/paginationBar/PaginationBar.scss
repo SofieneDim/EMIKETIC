@@ -1,0 +1,40 @@
+.pagination {
+  width: 100%;
+  display: inline-block;
+  position: relative;
+  align-content: center;
+}
+
+.pagination div {
+  margin: 0;
+  position: absolute;
+  margin: 10px 0;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
+.pagination button {
+  border: none;
+  height: 40px;
+  width: 45px;
+  font-size: 20px;
+  padding: 8px 16px;
+  border-radius: 10px;
+  text-decoration: none;
+  color: white !important;
+  background-color: rgb(169, 166, 166);
+  outline: none !important;
+}
+
+.pagination button.active {
+  color: white;
+  height: 45px;
+  width: 50px;
+  border-radius: 7px;
+}
+
+.pagination button:hover:not(.active) {
+  background-color: #ddd;
+  border-radius: 5px;
+}

@@ -1,0 +1,18 @@
+#body-container {
+  box-shadow: -50px 0px 150px 250px rgba(42, 51, 60, 0.9) inset;
+  -moz-box-shadow: -50px 0px 150px 250px rgba(42, 51, 60, 0.9) inset;
+  -webkit-box-shadow: -50px 0px 150px 250px rgba(42, 51, 60, 0.9) inset;
+}
+
+#wrapper {
+  height: 100vh;
+  position: relative;
+}
+
+#sub-wrapper {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
